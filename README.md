@@ -20,7 +20,7 @@ This repository highlights my journey in **data analytics and data science**, sh
 ## 📂 Featured Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [LoanTap Credit Risk Analysis](./Loan_Tap_logistic_Regression) | Predict creditworthiness of loan applicants and recommend repayment terms | Python, Pandas, Scikit-learn, XGBoost |
+| [LoanTap Credit Risk Analysis]([./Loan_Tap_logistic_Regression](https://github.com/kriti2011/Loan_Tap_Logistic_Regression)) | Predict creditworthiness of loan applicants and recommend repayment terms | Python, Pandas, Scikit-learn, XGBoost |
 | [Netflix Data Analysis](./Netflix-EDA) | Exploratory data analysis of Netflix titles to understand viewing trends | Python, Pandas, Seaborn |
 | [Walmart Case Study](./Walmart-Sales) | Forecasting sales and analyzing seasonality patterns | Python, Time Series |
 | [Aerofit Case Study](./Aerofit-EDA) | Customer segmentation and insights for treadmill purchases | Python, Pandas, Visualization |
