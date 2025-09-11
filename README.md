@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👩‍💻 Kriti Pahuja – Data Analytics & Data Science Portfolio
 
-<!--
-**kriti2011/kriti2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my project portfolio!  
+This repository highlights my journey in **data analytics and data science**, showcasing hands-on case studies, coding projects, and business problem-solving.
 
-Here are some ideas to get you started:
+## 📌 About Me
+- 🎓 B.Tech graduate with a background in IT (Ericsson, HCL).  
+- 📊 Transitioning into **Data Analytics & Data Science** with experience in SQL, Python, EDA, and ML.  
+- 🚀 Former team leader in **Direct Selling**, building leadership and business storytelling skills.  
+- 🎤 Passionate about **public speaking & content creation**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔧 Skills
+- **Programming:** Python, SQL  
+- **Data Analysis:** Pandas, NumPy, Excel  
+- **Visualization:** Matplotlib, Seaborn, Tableau  
+- **Machine Learning:** Scikit-learn, XGBoost  
+- **Tools:** GitHub, Jupyter 
+
+## 📂 Featured Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [LoanTap Credit Risk Analysis](./LoanTap-Credit-Risk) | Predict creditworthiness of loan applicants and recommend repayment terms | Python, Pandas, Scikit-learn, XGBoost |
+| [Netflix Data Analysis](./Netflix-EDA) | Exploratory data analysis of Netflix titles to understand viewing trends | Python, Pandas, Seaborn |
+| [Walmart Case Study](./Walmart-Sales) | Forecasting sales and analyzing seasonality patterns | Python, Time Series |
+| [Aerofit Case Study](./Aerofit-EDA) | Customer segmentation and insights for treadmill purchases | Python, Pandas, Visualization |
+
+
+## 📬 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/kriti-pahuja-941970a5/))
+
+✨ *This portfolio is a work-in-progress as I continue learning and building real-world data science projects.*
+
+
