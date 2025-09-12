@@ -23,7 +23,7 @@ This repository highlights my journey in **data analytics and data science**, sh
 | [LoanTap Credit Risk Analysis](https://github.com/kriti2011/Loan_Tap_Logistic_Regression) | Predict creditworthiness of loan applicants and recommend repayment terms | Python, Pandas, Seaborn, Matplotlib,Scikit-learn, Logistic Regression |
 | [Graduate Admissions Prediction – Jamboree Case Study]([./Netflix-EDA](https://github.com/kriti2011/Jamboree-Case-Study)) | Predict one's chances of admission into IVY League colleges | Python, Pandas, Seaborn, Linear Regression |
 | [Walmart Case Study](./Walmart-Sales) | Forecasting sales and analyzing seasonality patterns | Python, 
-| [Aerofit Case Study](./Aerofit-EDA) | Customer segmentation and insights for treadmill purchases | Python, Pandas, Visualization |
+| [Aerofit Case Study](./Aerofit-EDA) | Customer segmentation and insights for treadmill purchases | Python, Pandas, Visualization, Conditional Probability, Customer Profiling
 
 
 ## 📬 Connect with Me
