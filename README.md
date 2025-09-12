@@ -21,8 +21,9 @@ This repository highlights my journey in **data analytics and data science**, sh
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [LoanTap Credit Risk Analysis](https://github.com/kriti2011/Loan_Tap_Logistic_Regression) | Predict creditworthiness of loan applicants and recommend repayment terms | Python, Pandas, Seaborn, Matplotlib,Scikit-learn, Logistic Regression |
-| [Graduate Admissions Prediction – Jamboree Case Study]([./Netflix-EDA](https://github.com/kriti2011/Jamboree-Case-Study)) | Predict one's chances of admission into IVY League colleges | Python, Pandas, Seaborn, Linear Regression |
-| [Yulu bike case study](./Walmart-Sales) | Forecasting sales and analyzing seasonality patterns | Python, 
+| [Graduate Admissions Prediction – Jamboree Case Study](https://github.com/kriti2011/Jamboree-Case-Study) | Predict one's chances of admission into IVY League colleges | Python, Pandas, Seaborn, Linear Regression |
+| [Delhivery case study](https://github.com/kriti2011/Delhivery-Case-Study) | Analysis of Delhivery Data to get the useful features out of raw fields and prepare data for modelling and prediction | Python,Pandas,Seaborn,Matplotlib,Hypothesis Testing,Visualization,Feature Engineering,Outlier Handling,Encoding of Categorical Features,Scaling/Standardization/
+| [Yulu bike case study](https://github.com/kriti2011/Yulu-Bike-Case-Study/tree/main) | Analysis of Yulu Bike Data to understand the factors affecting the demand for their shared electric cycles in the Indian market | Python,Pandas,Seaborn,Matplotlib,Hypothesis Testing,Visualization,Feature Engineering
 | [Aerofit Case Study](https://github.com/kriti2011/Aerofit-Case-Study) | Customer segmentation and insights for treadmill purchases | Python, Pandas, Visualization, Conditional Probability, Customer Profiling
 
 
