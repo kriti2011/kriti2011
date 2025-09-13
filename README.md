@@ -18,14 +18,14 @@ This repository highlights my journey in **data analytics and data science**, sh
 - **Tools:** GitHub, Jupyter 
 
 ## 📂 Featured Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [LoanTap Credit Risk Analysis](https://github.com/kriti2011/Loan_Tap_Logistic_Regression) | Predict creditworthiness of loan applicants and recommend repayment terms | Python, Pandas, Seaborn, Matplotlib,Scikit-learn, Logistic Regression |
-| [Graduate Admissions Prediction – Jamboree Case Study](https://github.com/kriti2011/Jamboree-Case-Study) | Predict one's chances of admission into IVY League colleges | Python, Pandas, Seaborn, Linear Regression |
-| [Delhivery case study](https://github.com/kriti2011/Delhivery-Case-Study) | Analysis of Delhivery Data to get the useful features out of raw fields and prepare data for modelling and prediction | Python,Pandas,Seaborn,Matplotlib,Hypothesis Testing,Visualization,Feature Engineering,Outlier Handling,Encoding of Categorical Features,Scaling/Standardization/
-| [Yulu bike case study](https://github.com/kriti2011/Yulu-Bike-Case-Study/tree/main) | Analysis of Yulu Bike Data to understand the factors affecting the demand for their shared electric cycles in the Indian market | Python,Pandas,Seaborn,Matplotlib,Hypothesis Testing,Visualization,Feature Engineering
-| [Aerofit Case Study](https://github.com/kriti2011/Aerofit-Case-Study) | Customer segmentation and insights for treadmill purchases | Python, Pandas, Visualization, Conditional Probability, Customer Profiling
 
+| Project | Description | Key Skills | Tech Stack |
+|---------|-------------|------------|------------|
+| [**LoanTap Credit Risk Analysis**](https://github.com/your-username/LoanTap-Credit-Risk) | Predicted the **creditworthiness of loan applicants** and recommended suitable repayment terms for personal loans. | Credit Risk Analysis, Classification, EDA, Feature Engineering, Business Recommendations | Python, Pandas, Seaborn, Matplotlib, Scikit-learn |
+| [**Graduate Admissions Prediction – Jamboree Case Study**](https://github.com/your-username/Jamboree-Admissions-Prediction) | Predicted **chances of admission into Ivy League colleges** based on student profiles (GRE, TOEFL, GPA, SOP, LOR, Research). | EDA, Regression Modeling, Feature Importance, Predictive Analytics | Python, Pandas, Seaborn, Linear Regression |
+| [**Delhivery Case Study**](https://github.com/your-username/Delhivery-Case-Study) | Processed raw logistics data, performed **feature engineering & outlier handling**, and prepared the dataset for predictive modeling in delivery forecasting. | Data Cleaning, Feature Engineering, Outlier Handling, Encoding, Scaling, Hypothesis Testing | Python, Pandas, Seaborn, Matplotlib |
+| [**Yulu Bike Case Study**](https://github.com/your-username/Yulu-Bike-Case-Study) | Analyzed demand factors for **shared electric cycles** in India; performed hypothesis testing and feature engineering to identify key business drivers. | Demand Analysis, Hypothesis Testing, Bi-variate Analysis, ANOVA, Chi-Square, Business Insights | Python, Pandas, Seaborn, Matplotlib |
+| [**Aerofit Case Study**](https://github.com/your-username/Aerofit-Case-Study) | Conducted customer segmentation and profiling to provide insights on **treadmill purchase behavior**. | Customer Segmentation, Profiling, Conditional Probability, Business Insights | Python, Pandas, Visualization |
 
 ## 📬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kriti-pahuja-941970a5/))
