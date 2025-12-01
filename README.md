@@ -26,6 +26,9 @@ This repository highlights my journey in **data analytics and data science**, sh
 | [**Target Brazil Case Study**](https://github.com/kriti2011/Target-Case-Study/tree/main)| Exploring E-commerce Trends and Customer Behaviour. An exploratory and in-depth study of the **e-commerce market in Brazil**| Data Analysis using SQL, Joins, aggregations, window functions, date/time calculations, subqueries | Biq Query |
 | [**Yulu Bike Case Study**](https://github.com/kriti2011/Yulu-Bike-Case-Study) | Analyzed demand factors for **shared electric cycles** in India; performed hypothesis testing and feature engineering to identify key business drivers. | Demand Analysis, Hypothesis Testing, Bi-variate Analysis, ANOVA, Chi-Square, Business Insights | Python, Pandas, Seaborn, Matplotlib |
 | [**Aerofit Case Study**](https://github.com/kriti2011/Aerofit-Case-Study) | Conducted customer segmentation and profiling to provide insights on **treadmill purchase behavior**. | Customer Segmentation, Profiling, Conditional Probability, Business Insights | Python, Pandas, Visualization |
+| [**Ola Driver CHurn PRediction**](https://github.com/kriti2011/Ola-Driver-Churn-Prediction) | Predicted whether Ola drivers are likely to churn using demographic, performance & income data. Built end-to-end ML pipeline with feature engineering, class imbalance handling, and boosting models. | Churn Prediction, Feature Engineering, SMOTE, KNN Imputation, Ensemble Models, Business Analytics | Python, Pandas, SKLearn, XGBoost, Matplotlib |
+
+
 
 ## 📬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kriti-pahuja-941970a5/))
