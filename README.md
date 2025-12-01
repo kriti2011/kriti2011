@@ -5,8 +5,8 @@ This repository highlights my journey in **data analytics and data science**, sh
 
 ## 📌 About Me
 - 🎓 B.Tech graduate with a background in IT (Ericsson, HCL).  
-- 📊 Passionate about using **Data Analytics & Data Science** to drive business decision sthrough myexperience in SQL, Python, EDA, and ML.   
-- 🎤 Passionate about **public speaking & content creation**.  
+- 📊 **Data Analyst/Data Scientist** with hands-on skills in SQL, Python, EDA, Hypothesis Testing & ML modelling — driven to turn data into decisions. 
+- 🎤 Strong interest in **public speaking, storytelling & content creation**, aiming to combine analytical thinking with impactful communication.
 
 
 ## 🔧 Skills
