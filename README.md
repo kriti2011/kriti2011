@@ -5,8 +5,7 @@ This repository highlights my journey in **data analytics and data science**, sh
 
 ## 📌 About Me
 - 🎓 B.Tech graduate with a background in IT (Ericsson, HCL).  
-- 📊 Transitioning into **Data Analytics & Data Science** with experience in SQL, Python, EDA, and ML.  
-- 🚀 Former team leader in **Direct Selling**, building leadership and business storytelling skills.  
+- 📊 Passionate about using **Data Analytics & Data Science** to drive business decision sthrough myexperience in SQL, Python, EDA, and ML.   
 - 🎤 Passionate about **public speaking & content creation**.  
 
 
